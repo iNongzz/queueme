@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/iNongzz/queueme#readme",
   "dependencies": {
+    "graphql": "^0.13.2",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "redux": "^4.0.0"
